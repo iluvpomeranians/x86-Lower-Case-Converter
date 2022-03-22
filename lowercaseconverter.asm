@@ -1,4 +1,4 @@
-;GNU nano 6.2                     uppercase.asm
+;GNU nano 6.2                     
 ;David Martinez
 ;November 14th 2021
 ;Lab 4 Uppercase conversion
